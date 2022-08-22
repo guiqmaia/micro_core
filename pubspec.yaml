@@ -16,6 +16,11 @@ dependencies:
       url: https://github.com/guiqmaia/design_system.git
       ref: v1.0.0
 
+  common_dependencies:
+    git:
+     url: https://github.com/guiqmaia/common_dependencies.git
+     ref: v1.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
